@@ -12,6 +12,8 @@ const StudentSchema = new mongoose.Schema({
 
   // new change 
 
+  // second change 
+
   password: {
     type: String,
     required: [true, "must provide a password"],
